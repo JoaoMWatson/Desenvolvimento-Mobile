@@ -9,14 +9,13 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/txtUser"
         android:layout_width="wrap_content"
         android:layout_height="200dp"
         android:layout_margin="50dp"
         android:src="@drawable/logo" />
 
     <EditText
-        android:id="@+id/txtPass"
+        android:id="@+id/txtUser"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="70dp"
@@ -24,6 +23,7 @@
         android:inputType="text" />
 
     <EditText
+        android:id="@+id/txtPass"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="70dp"
