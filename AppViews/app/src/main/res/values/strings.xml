@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="resultado">Resultado</string>
+    <string name="Resultado">resultado:</string>
+    <string name="somar">Somar</string>
+    <string name="numero_2">Numero 2</string>
+    <string name="numero_1">Numero 1</string>
+    <string name="calculadora_top">Calculadora Top</string>
+</resources>
